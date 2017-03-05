@@ -21,18 +21,24 @@ Platform assembly: C:\Users\jaspe\Documents\Space Game\space_Data\Managed\UnityE
 Loading C:\Users\jaspe\Documents\Space Game\space_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
 Platform assembly: C:\Users\jaspe\Documents\Space Game\space_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
 Loading C:\Users\jaspe\Documents\Space Game\space_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.117 seconds
+- Completed reload, in  0.017 seconds
 Platform assembly: C:\Users\jaspe\Documents\Space Game\space_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\jaspe\Documents\Space Game\space_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1080 60Hz; virtual: 3600x1295 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.867651 ms
+UnloadTime: 0.710135 ms
 NullReferenceException: Object reference not set to an instance of an object
   at Planet.Start () [0x00000] in <filename unknown>:0 
  
 (Filename:  Line: -1)
 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.569407 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 434.
+Total: 0.235543 ms (FindLiveObjects: 0.021625 ms CreateObjectMapping: 0.010228 ms MarkObjects: 0.176218 ms  DeleteObjects: 0.027178 ms)
+
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 27b4 -> priority: 1 
+  Thread -> id: 7570 -> priority: 1 
